@@ -1,0 +1,11 @@
+C:\Users\Ben\source\repos\Web2Serial\Web2Serial\bin\Release\Web2Serial.exe.config
+C:\Users\Ben\source\repos\Web2Serial\Web2Serial\bin\Release\Web2Serial.exe
+C:\Users\Ben\source\repos\Web2Serial\Web2Serial\bin\Release\Web2Serial.pdb
+C:\Users\Ben\source\repos\Web2Serial\Web2Serial\bin\Release\Newtonsoft.Json.dll
+C:\Users\Ben\source\repos\Web2Serial\Web2Serial\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Ben\source\repos\Web2Serial\Web2Serial\bin\Release\Newtonsoft.Json.xml
+C:\Users\Ben\source\repos\Web2Serial\Web2Serial\obj\Release\Web2Serial.csprojAssemblyReference.cache
+C:\Users\Ben\source\repos\Web2Serial\Web2Serial\obj\Release\Web2Serial.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\Web2Serial\Web2Serial\obj\Release\Web2Serial.csproj.CopyComplete
+C:\Users\Ben\source\repos\Web2Serial\Web2Serial\obj\Release\Web2Serial.exe
+C:\Users\Ben\source\repos\Web2Serial\Web2Serial\obj\Release\Web2Serial.pdb

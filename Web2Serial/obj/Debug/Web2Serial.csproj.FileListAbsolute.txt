@@ -1,0 +1,13 @@
+C:\Users\Ben\source\repos\Web2Serial\Web2Serial\bin\Debug\Web2Serial.exe.config
+C:\Users\Ben\source\repos\Web2Serial\Web2Serial\bin\Debug\Web2Serial.exe
+C:\Users\Ben\source\repos\Web2Serial\Web2Serial\bin\Debug\Web2Serial.pdb
+C:\Users\Ben\source\repos\Web2Serial\Web2Serial\bin\Debug\Web2Serial.exe.CodeAnalysisLog.xml
+C:\Users\Ben\source\repos\Web2Serial\Web2Serial\bin\Debug\Web2Serial.exe.lastcodeanalysissucceeded
+C:\Users\Ben\source\repos\Web2Serial\Web2Serial\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ben\source\repos\Web2Serial\Web2Serial\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Ben\source\repos\Web2Serial\Web2Serial\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ben\source\repos\Web2Serial\Web2Serial\obj\Debug\Web2Serial.csprojAssemblyReference.cache
+C:\Users\Ben\source\repos\Web2Serial\Web2Serial\obj\Debug\Web2Serial.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\Web2Serial\Web2Serial\obj\Debug\Web2Serial.csproj.CopyComplete
+C:\Users\Ben\source\repos\Web2Serial\Web2Serial\obj\Debug\Web2Serial.exe
+C:\Users\Ben\source\repos\Web2Serial\Web2Serial\obj\Debug\Web2Serial.pdb
